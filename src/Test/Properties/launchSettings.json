@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestGame.Web": {
+      "commandName": "Executable",
+      "executablePath": "dotnet",
+      "commandLineArgs": "serve -o"
+    }
+  }
+}
